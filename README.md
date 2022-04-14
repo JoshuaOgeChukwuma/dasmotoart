@@ -14,7 +14,7 @@ This project was created with:
 * Visual Studio Code
 * HTML
 * Css
-* Chrome Dev Tools
+* Chrome Dev. Tools
 
 ## Contact
 Created by @JoshuaOgeChukwuma
